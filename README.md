@@ -31,3 +31,10 @@ synthetic-mitochondria/
 ├── figures/                                                            # Generated plots and diagrams
 ├── LICENSE
 └── README.md
+
+Developed by Mark Ihrwell R. Petalcorin, with inspiration from advanced mitochondrial engineering principles, synthetic biology frameworks, and data science integration.
+
+⸻
+
+Contact: m.petalcorin@gmail.com]
+GitHub: @mpetalcorin
